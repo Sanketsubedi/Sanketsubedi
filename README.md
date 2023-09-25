@@ -23,7 +23,7 @@ I'm a passionate software engineer, always eager to learn and create. Welcome to
 ## 📈 GitHub Stats
 
 ![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanketsubedi&show_icons=true&theme=dark)
-![Top Languages](https://img.shields.io/github/languages/top/Sanketsubedi/Trackero?style=flat-square&color=blue&label=Top%20Languages)
+
 
 ## 📚 Featured Projects
 
