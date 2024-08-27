@@ -33,7 +33,7 @@ I'm a passionate software engineer, always eager to learn and create. Welcome to
 
 - 📧 Email: itsmesanketsubedi@gmail.com
 - 💼 LinkedIn: [Sanket Subedi](https://www.linkedin.com/in/itsmesanket/)
-- 🐦 Twitter: [@SanketSubedi](https://twitter.com/SUPERSTAR_YT100)
+- 🐦 Twitter: [@SanketSubedi](https://x.com/_sanketsubedi_)
 
               
 
