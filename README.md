@@ -28,6 +28,7 @@ I'm a passionate software engineer, always eager to learn and create. Welcome to
 ## 📚 Featured Projects
 
 - [Tracker](https://github.com/Sanketsubedi/Tracker): This is Online Lost and Found System developed and completed during Sept. 2023 by our small group of four.
+- [Parking Space Detection System](https://github.com/Sanketsubedi/Parking-Space-Detector) :  This is a Parking Lot Management System developed during Sept. 2024 by our small group of four.
 
 ## 📫 Let's Connect
 
